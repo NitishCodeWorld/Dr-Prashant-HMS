@@ -1,0 +1,51 @@
+[21-Jun-2024 15:57:26 Asia/Kolkata] PHP Warning:  Undefined array key "table_structure_block" in /home/drsujoysarkar/public_html/oec/ajax_for_emr/dr_pb_values_fetch_from_trenetralaya_for_emr.php on line 375
+[21-Jun-2024 15:57:26 Asia/Kolkata] PHP Warning:  Undefined array key "medical_doctor" in /home/drsujoysarkar/public_html/oec/ajax_for_emr/dr_pb_values_fetch_from_trenetralaya_for_emr.php on line 377
+[21-Jun-2024 15:57:34 Asia/Kolkata] PHP Warning:  Undefined array key "table_structure_block" in /home/drsujoysarkar/public_html/oec/ajax_for_emr/dr_pb_values_fetch_from_trenetralaya_for_emr.php on line 375
+[21-Jun-2024 15:57:34 Asia/Kolkata] PHP Warning:  Undefined array key "medical_doctor" in /home/drsujoysarkar/public_html/oec/ajax_for_emr/dr_pb_values_fetch_from_trenetralaya_for_emr.php on line 377
+[21-Jun-2024 15:57:46 Asia/Kolkata] PHP Warning:  Undefined array key "table_structure_block" in /home/drsujoysarkar/public_html/oec/ajax_for_emr/dr_pb_values_fetch_from_trenetralaya_for_emr.php on line 375
+[21-Jun-2024 15:57:46 Asia/Kolkata] PHP Warning:  Undefined array key "medical_doctor" in /home/drsujoysarkar/public_html/oec/ajax_for_emr/dr_pb_values_fetch_from_trenetralaya_for_emr.php on line 377
+[30-Jun-2025 01:50:52 Asia/Kolkata] PHP Warning:  Undefined variable $conn2 in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 1104
+[30-Jun-2025 01:50:52 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php:1104
+Stack trace:
+#0 /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php(1104): mysqli_query()
+#1 /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php(21): fetch_old_patient_basic_data()
+#2 {main}
+  thrown in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 1104
+[30-Jun-2025 01:51:12 Asia/Kolkata] PHP Warning:  Undefined variable $conn2 in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 1104
+[30-Jun-2025 01:51:12 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php:1104
+Stack trace:
+#0 /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php(1104): mysqli_query()
+#1 /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php(21): fetch_old_patient_basic_data()
+#2 {main}
+  thrown in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 1104
+[30-Jun-2025 01:52:50 Asia/Kolkata] PHP Warning:  Undefined variable $conn2 in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 1104
+[30-Jun-2025 01:52:50 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php:1104
+Stack trace:
+#0 /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php(1104): mysqli_query()
+#1 /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php(21): fetch_old_patient_basic_data()
+#2 {main}
+  thrown in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 1104
+[30-Jun-2025 01:54:26 Asia/Kolkata] PHP Warning:  Undefined array key "slip_id" in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 503
+[30-Jun-2025 01:54:26 Asia/Kolkata] PHP Warning:  Undefined array key "patient_registration_id" in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 505
+[30-Jun-2025 01:54:26 Asia/Kolkata] PHP Warning:  Undefined array key "primary_doctor" in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 507
+[30-Jun-2025 01:54:26 Asia/Kolkata] PHP Warning:  Undefined array key "pre_operative_block" in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 671
+[30-Jun-2025 01:54:26 Asia/Kolkata] PHP Warning:  Undefined array key "pre_operative" in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 673
+[30-Jun-2025 01:54:26 Asia/Kolkata] PHP Warning:  Undefined array key "pr_left" in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 759
+[30-Jun-2025 01:54:26 Asia/Kolkata] PHP Warning:  Undefined array key "pr_right" in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 760
+[30-Jun-2025 01:54:26 Asia/Kolkata] PHP Warning:  Undefined array key "mb_ocular" in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 761
+[30-Jun-2025 01:54:26 Asia/Kolkata] PHP Warning:  Undefined array key "mb_ocular_left" in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 762
+[30-Jun-2025 01:54:26 Asia/Kolkata] PHP Warning:  Undefined array key "cornea_ocular" in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 766
+[30-Jun-2025 01:54:26 Asia/Kolkata] PHP Warning:  Undefined array key "cornea_ocular_left" in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 767
+[30-Jun-2025 01:54:26 Asia/Kolkata] PHP Warning:  Undefined array key "iris_ocular" in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 768
+[30-Jun-2025 01:54:26 Asia/Kolkata] PHP Warning:  Undefined array key "iris_ocular_left" in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 769
+[30-Jun-2025 01:54:26 Asia/Kolkata] PHP Warning:  Undefined array key "lens_ocular" in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 770
+[30-Jun-2025 01:54:26 Asia/Kolkata] PHP Warning:  Undefined array key "lens_ocular_left" in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 771
+[30-Jun-2025 01:54:26 Asia/Kolkata] PHP Warning:  Undefined array key "vitreous_ocular" in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 772
+[30-Jun-2025 01:54:26 Asia/Kolkata] PHP Warning:  Undefined array key "vitreous_ocular_left" in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 773
+[30-Jun-2025 01:54:26 Asia/Kolkata] PHP Warning:  Undefined array key "retina_ocular" in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 774
+[30-Jun-2025 01:54:26 Asia/Kolkata] PHP Warning:  Undefined array key "retina_ocular_left" in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 775
+[30-Jun-2025 01:54:26 Asia/Kolkata] PHP Warning:  Undefined array key "onh_ocular" in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 776
+[30-Jun-2025 01:54:26 Asia/Kolkata] PHP Warning:  Undefined array key "onh_ocular_left" in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 777
+[30-Jun-2025 01:54:26 Asia/Kolkata] PHP Warning:  Undefined array key "remarks_pres" in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 778
+[30-Jun-2025 01:54:26 Asia/Kolkata] PHP Warning:  Undefined array key "ac_ocular" in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 782
+[30-Jun-2025 01:54:26 Asia/Kolkata] PHP Warning:  Undefined array key "ac_ocular_left" in /home/y3x20oazul6x/public_html/hms_espl/ajax_for_emr/old_emr_archieve_value_fetch.php on line 783
