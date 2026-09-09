@@ -1,0 +1,53 @@
+[21-Jun-2024 15:57:14 Asia/Kolkata] PHP Warning:  Undefined variable $batch_code2 in /home/drsujoysarkar/public_html/oec/ajax/inventory_stock_get_ajax.php on line 40
+[21-Jun-2024 15:57:14 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/drsujoysarkar/public_html/oec/ajax/inventory_stock_get_ajax.php on line 54
+[21-Jun-2024 15:57:14 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/drsujoysarkar/public_html/oec/ajax/inventory_stock_get_ajax.php on line 54
+[21-Jun-2024 15:57:14 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/drsujoysarkar/public_html/oec/ajax/inventory_stock_get_ajax.php on line 54
+[21-Jun-2024 15:57:14 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/drsujoysarkar/public_html/oec/ajax/inventory_stock_get_ajax.php on line 54
+[21-Jun-2024 15:57:14 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/drsujoysarkar/public_html/oec/ajax/inventory_stock_get_ajax.php on line 54
+[21-Jun-2024 15:57:14 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/drsujoysarkar/public_html/oec/ajax/inventory_stock_get_ajax.php on line 54
+[21-Jun-2024 15:57:14 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/drsujoysarkar/public_html/oec/ajax/inventory_stock_get_ajax.php on line 54
+[21-Jun-2024 15:57:14 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/drsujoysarkar/public_html/oec/ajax/inventory_stock_get_ajax.php on line 54
+[21-Jun-2024 15:57:14 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/drsujoysarkar/public_html/oec/ajax/inventory_stock_get_ajax.php on line 54
+[21-Jun-2024 15:57:43 Asia/Kolkata] PHP Warning:  Undefined variable $batch_code2 in /home/drsujoysarkar/public_html/oec/ajax/inventory_stock_get_ajax.php on line 40
+[21-Jun-2024 15:57:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/drsujoysarkar/public_html/oec/ajax/inventory_stock_get_ajax.php on line 54
+[21-Jun-2024 15:57:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/drsujoysarkar/public_html/oec/ajax/inventory_stock_get_ajax.php on line 54
+[21-Jun-2024 15:57:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/drsujoysarkar/public_html/oec/ajax/inventory_stock_get_ajax.php on line 54
+[21-Jun-2024 15:57:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/drsujoysarkar/public_html/oec/ajax/inventory_stock_get_ajax.php on line 54
+[21-Jun-2024 15:57:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/drsujoysarkar/public_html/oec/ajax/inventory_stock_get_ajax.php on line 54
+[21-Jun-2024 15:57:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/drsujoysarkar/public_html/oec/ajax/inventory_stock_get_ajax.php on line 54
+[21-Jun-2024 15:57:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/drsujoysarkar/public_html/oec/ajax/inventory_stock_get_ajax.php on line 54
+[21-Jun-2024 15:57:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/drsujoysarkar/public_html/oec/ajax/inventory_stock_get_ajax.php on line 54
+[21-Jun-2024 15:57:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/drsujoysarkar/public_html/oec/ajax/inventory_stock_get_ajax.php on line 54
+[05-Feb-2025 21:48:24 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'due_recieved_flag' in 'field list' in /home/drsujoysarkar/public_html/sunetra_hms_test/ajax/request_for_edit_ajax.php:450
+Stack trace:
+#0 /home/drsujoysarkar/public_html/sunetra_hms_test/ajax/request_for_edit_ajax.php(450): mysqli->query('UPDATE `invoice...')
+#1 /home/drsujoysarkar/public_html/sunetra_hms_test/ajax/request_for_edit_ajax.php(30): save_extra_info_details()
+#2 {main}
+  thrown in /home/drsujoysarkar/public_html/sunetra_hms_test/ajax/request_for_edit_ajax.php on line 450
+[05-Feb-2025 21:49:23 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'due_recieved_flag' in 'field list' in /home/drsujoysarkar/public_html/sunetra_hms_test/ajax/request_for_edit_ajax.php:450
+Stack trace:
+#0 /home/drsujoysarkar/public_html/sunetra_hms_test/ajax/request_for_edit_ajax.php(450): mysqli->query('UPDATE `invoice...')
+#1 /home/drsujoysarkar/public_html/sunetra_hms_test/ajax/request_for_edit_ajax.php(30): save_extra_info_details()
+#2 {main}
+  thrown in /home/drsujoysarkar/public_html/sunetra_hms_test/ajax/request_for_edit_ajax.php on line 450
+[12-Feb-2026 21:32:02 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'uhid_no' in 'WHERE' in /home/y3x20oazul6x/public_html/hms/ajax/follow_up_fetch_ajax.php:66
+Stack trace:
+#0 /home/y3x20oazul6x/public_html/hms/ajax/follow_up_fetch_ajax.php(66): mysqli->query()
+#1 {main}
+  thrown in /home/y3x20oazul6x/public_html/hms/ajax/follow_up_fetch_ajax.php on line 66
+[12-Feb-2026 21:47:49 Asia/Kolkata] PHP Warning:  Undefined variable $id in /home/y3x20oazul6x/public_html/hms/ajax/follow_up_fetch_ajax.php on line 89
+[12-Feb-2026 21:47:49 Asia/Kolkata] PHP Warning:  Undefined variable $uhid_no in /home/y3x20oazul6x/public_html/hms/ajax/follow_up_fetch_ajax.php on line 89
+[12-Feb-2026 21:47:49 Asia/Kolkata] PHP Warning:  Undefined variable $patient_name in /home/y3x20oazul6x/public_html/hms/ajax/follow_up_fetch_ajax.php on line 89
+[12-Feb-2026 21:47:49 Asia/Kolkata] PHP Warning:  Undefined variable $admiting_doctor in /home/y3x20oazul6x/public_html/hms/ajax/follow_up_fetch_ajax.php on line 89
+[12-Feb-2026 21:47:49 Asia/Kolkata] PHP Warning:  Undefined variable $prefix in /home/y3x20oazul6x/public_html/hms/ajax/follow_up_fetch_ajax.php on line 89
+[12-Feb-2026 21:47:49 Asia/Kolkata] PHP Warning:  Undefined variable $dob in /home/y3x20oazul6x/public_html/hms/ajax/follow_up_fetch_ajax.php on line 89
+[12-Feb-2026 21:47:49 Asia/Kolkata] PHP Warning:  Undefined variable $age in /home/y3x20oazul6x/public_html/hms/ajax/follow_up_fetch_ajax.php on line 89
+[12-Feb-2026 21:47:49 Asia/Kolkata] PHP Warning:  Undefined variable $gender in /home/y3x20oazul6x/public_html/hms/ajax/follow_up_fetch_ajax.php on line 89
+[12-Feb-2026 21:47:49 Asia/Kolkata] PHP Warning:  Undefined variable $phone_no in /home/y3x20oazul6x/public_html/hms/ajax/follow_up_fetch_ajax.php on line 89
+[12-Feb-2026 21:47:49 Asia/Kolkata] PHP Warning:  Undefined variable $email_id in /home/y3x20oazul6x/public_html/hms/ajax/follow_up_fetch_ajax.php on line 89
+[12-Feb-2026 21:47:49 Asia/Kolkata] PHP Warning:  Undefined variable $alternate_phone_no in /home/y3x20oazul6x/public_html/hms/ajax/follow_up_fetch_ajax.php on line 89
+[12-Feb-2026 21:47:49 Asia/Kolkata] PHP Warning:  Undefined variable $address in /home/y3x20oazul6x/public_html/hms/ajax/follow_up_fetch_ajax.php on line 89
+[12-Feb-2026 21:47:49 Asia/Kolkata] PHP Warning:  Undefined variable $zip_code in /home/y3x20oazul6x/public_html/hms/ajax/follow_up_fetch_ajax.php on line 89
+[12-Feb-2026 21:47:49 Asia/Kolkata] PHP Warning:  Undefined variable $district in /home/y3x20oazul6x/public_html/hms/ajax/follow_up_fetch_ajax.php on line 89
+[12-Feb-2026 21:47:49 Asia/Kolkata] PHP Warning:  Undefined variable $registration_date in /home/y3x20oazul6x/public_html/hms/ajax/follow_up_fetch_ajax.php on line 89
+[12-Feb-2026 21:47:49 Asia/Kolkata] PHP Warning:  Undefined variable $registration_time in /home/y3x20oazul6x/public_html/hms/ajax/follow_up_fetch_ajax.php on line 89
